@@ -1,4 +1,4 @@
-<img width="634" alt="Screen Shot 2023-12-19 at 1 19 33 AM" src="https://github.com/simran7813/ds301project/assets/105620884/f218a5c7-8c6d-4c8f-ba29-d2837d3299f9"># ds301project
+# ds301project
 Bringing Dead Philosophers Back To Life: Text Generation with LLMs and Transfer Learning
 ```mermaid
 graph TD;
